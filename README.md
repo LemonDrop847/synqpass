@@ -37,6 +37,8 @@ To get a local copy up and running, follow these simple steps.
 
 <video src="" width="100%"></video>
 
+<img src="platinum.png" alt="demo" width="50%">
+
 ## 🛣️ Roadmap
 
 *   [ ] User authentication
