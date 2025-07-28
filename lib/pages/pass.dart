@@ -4,14 +4,20 @@ import '../widgets/pass_card.dart';
 class PassScreen extends StatelessWidget {
   final dynamic event;
   final String userId;
-  const PassScreen({super.key, required this.event, required this.userId});
+  final String level;
+  const PassScreen({
+    super.key,
+    required this.event,
+    required this.userId,
+    required this.level,
+  });
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: PassCard(
-        username: 'Alex Ray', // Replace with actual username
-        level: 'gold',
+        username: 'John Doe',
+        level: level,
         userId: userId,
         appendingString: event.id,
         clubName: 'Synqpass',

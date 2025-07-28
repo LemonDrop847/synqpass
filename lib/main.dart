@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:synqpass/pages/pass.dart';
+import 'package:synqpass/pages/events_list_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,14 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: PassScreen(event: const _DummyEvent(), userId: 'test-user-id'),
+      home: const EventsListPage(),
     );
   }
-}
-
-class _DummyEvent {
-  final String id = 'test-event-id';
-  final String name = 'Dummy Event';
-
-  const _DummyEvent();
 }
