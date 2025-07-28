@@ -23,7 +23,7 @@ class PassScreen extends StatelessWidget {
         clubName: 'Synqpass',
         eventDetails: event.name,
         logoUrl:
-            'https://thumbs.dreamstime.com/b/eagle-head-simple-logo-design-template-359138889.jpg',
+            'https://cdn.dribbble.com/userupload/34646523/file/original-5911b8175427de4eceb8fe8ffbed71db.jpg?resize=2048x1536&vertical=center',
       ),
     );
   }
