@@ -113,7 +113,7 @@ class _EventDetailsPageState extends State<EventDetailsPage> {
                         builder:
                             (context) => PassScreen(
                               event: widget.event,
-                              userId: 'test-user-id',
+                              userId: 'johndoeid-test',
                               level: _selectedTier,
                             ),
                       ),

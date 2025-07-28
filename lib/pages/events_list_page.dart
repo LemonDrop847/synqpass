@@ -6,17 +6,17 @@ import 'package:synqpass/pages/event_details_page.dart';
 class EventsListPage extends StatelessWidget {
   final List<Event> events = const [
     Event(
-      id: '1',
+      id: 'synq-1',
       name: 'Flutter Forward',
       description: 'The future of Flutter.',
     ),
     Event(
-      id: '2',
+      id: 'synq-2',
       name: 'Google I/O',
       description: 'Annual developer conference.',
     ),
     Event(
-      id: '3',
+      id: 'synq-3',
       name: 'Dart Conf',
       description: 'All about the Dart language.',
     ),
