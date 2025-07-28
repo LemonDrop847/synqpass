@@ -36,6 +36,7 @@ To get a local copy up and running, follow these simple steps.
 ## 📺 Demo
 [demo.mp4](https://raw.githubusercontent.com/LemonDrop847/synqpass/main/demo.mp4)
 <video src="demo.mp4" controls width="60%"></video>
+![untitled (2)](https://github.com/user-attachments/assets/8b4bb515-2463-4571-850c-58f6f2cbdfbe)
 
 <img src="platinum.png" alt="demo" width="50%">
 
