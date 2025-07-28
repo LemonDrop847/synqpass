@@ -1,16 +1,53 @@
-# synqpass
+# Synqpass
 
-A new Flutter project.
+Synqpass is a sleek, modern event pass management application built with Flutter. This app is currently under development and serves as a dummy application to showcase a potential user flow and design.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+*   **Modern, Dark UI:** A beautiful, custom-designed dark theme with gradients and modern fonts from Google Fonts.
+*   **Event Discovery:** Browse a list of available events.
+*   **Tiered Pass System:** Select from different pass tiers (e.g., Silver, Gold, Platinum) for each event.
+*   **Dynamic QR Code Generation:** A unique QR code is generated for your event pass.
+*   **Sleek Pass Design:** A visually appealing pass card that displays your event details, tier, and QR code.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To get a local copy up and running, follow these simple steps.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+*   Flutter SDK: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
+
+### Installation
+
+1.  Clone the repo
+    ```sh
+    git clone https://github.com/LemonDrop847/synqpass.git
+    ```
+2.  Install packages
+    ```sh
+    flutter pub get
+    ```
+3.  Run the app
+    ```sh
+    flutter run
+    ```
+
+## 📺 Demo
+
+
+
+## 🛣️ Roadmap
+
+*   [ ] User authentication
+*   [ ] Real-time event data from a backend
+*   [ ] Payment integration
+*   [ ] Pass sharing and validation
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
