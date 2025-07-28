@@ -35,7 +35,7 @@ To get a local copy up and running, follow these simple steps.
 
 ## 📺 Demo
 
-<video src="" width="100%"></video>
+<video src="demo.mp4" controls width="60%"></video>
 
 <img src="platinum.png" alt="demo" width="50%">
 
